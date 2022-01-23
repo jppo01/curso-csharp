@@ -4,6 +4,7 @@
 */
 
 
+
 //=============== tipos primitivos de váriveis ===============\\
 /*
         Tipo    |    Tamanho    |    Valores possíveis
@@ -31,6 +32,16 @@
     Com string conseguimos armazenar qualquer valor q seja delimitado por aspas duplas
 
 */
+
+
+//=============== Linguagem fortemente tipada ===============\\
+
+/*
+	O C# é uma linguagem fortemente tipiada. Isso significa que uma vez que uma variável é criada
+	o seu tipo não pode ser mudado. 
+*/
+
+
 
 //=============== Tipagem dinamica ===============\\
 /* 
