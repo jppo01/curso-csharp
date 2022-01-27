@@ -1,0 +1,15 @@
+/home/joao/Documents/estudo-csharp/udemy/poo/triangulos/bin/Debug/net6.0/triangulos
+/home/joao/Documents/estudo-csharp/udemy/poo/triangulos/bin/Debug/net6.0/triangulos.deps.json
+/home/joao/Documents/estudo-csharp/udemy/poo/triangulos/bin/Debug/net6.0/triangulos.runtimeconfig.json
+/home/joao/Documents/estudo-csharp/udemy/poo/triangulos/bin/Debug/net6.0/triangulos.dll
+/home/joao/Documents/estudo-csharp/udemy/poo/triangulos/bin/Debug/net6.0/ref/triangulos.dll
+/home/joao/Documents/estudo-csharp/udemy/poo/triangulos/bin/Debug/net6.0/triangulos.pdb
+/home/joao/Documents/estudo-csharp/udemy/poo/triangulos/obj/Debug/net6.0/triangulos.csproj.AssemblyReference.cache
+/home/joao/Documents/estudo-csharp/udemy/poo/triangulos/obj/Debug/net6.0/triangulos.GeneratedMSBuildEditorConfig.editorconfig
+/home/joao/Documents/estudo-csharp/udemy/poo/triangulos/obj/Debug/net6.0/triangulos.AssemblyInfoInputs.cache
+/home/joao/Documents/estudo-csharp/udemy/poo/triangulos/obj/Debug/net6.0/triangulos.AssemblyInfo.cs
+/home/joao/Documents/estudo-csharp/udemy/poo/triangulos/obj/Debug/net6.0/triangulos.csproj.CoreCompileInputs.cache
+/home/joao/Documents/estudo-csharp/udemy/poo/triangulos/obj/Debug/net6.0/triangulos.dll
+/home/joao/Documents/estudo-csharp/udemy/poo/triangulos/obj/Debug/net6.0/ref/triangulos.dll
+/home/joao/Documents/estudo-csharp/udemy/poo/triangulos/obj/Debug/net6.0/triangulos.pdb
+/home/joao/Documents/estudo-csharp/udemy/poo/triangulos/obj/Debug/net6.0/triangulos.genruntimeconfig.cache

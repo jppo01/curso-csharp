@@ -75,12 +75,12 @@
 */
 
 
-//=============== Conversões de cast e tipo ===============\\
+//=============== Conversões ===============\\
 /*
-    E se quissemos fazer com que uma variável do tipo string recebesse algum valor do tipo int. Como fariamos? 
+    E se quissemos fazer com que uma variável do tipo string recebesse algum valor do tipo int. Como faríamos? 
     Para isso temos as conversões. 
 
-
+    Basicamente as conversões podem ser de 4 tipos:implicita, explicita, definida pelo usuário e com classes auxiliares.
 
 */
 
