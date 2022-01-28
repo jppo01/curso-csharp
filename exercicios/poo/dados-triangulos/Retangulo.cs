@@ -16,7 +16,7 @@ public class Retangulo
     //formulas matemáticas
     public double Area()
     {
-        return ((Altura * Largura)/2);
+        return (Altura * Largura);
     }
     public double Perimetro()
     {
