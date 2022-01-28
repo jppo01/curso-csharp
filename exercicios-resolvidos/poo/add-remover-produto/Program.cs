@@ -1,5 +1,5 @@
 ﻿/* Exercício
- * OBS: Não foi implementada nenhuma tratação de excessão
+ * OBS: Sem tratamento de exceção
  */
 
 using System.Globalization;
