@@ -3,9 +3,9 @@
 public class Produto
 {
 	// Atributos
-	public string Nome;
-	public double Preco;
-	public int Quantidade;
+	private string Nome;
+	private double Preco;
+	private int Quantidade;
 
 
 	//################### MÉTODOS ######################
