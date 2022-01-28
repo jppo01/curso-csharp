@@ -27,12 +27,17 @@ public class Produto
     }
 
 	// Adicionar produtos em estoque
-	public int AdicionarProdutos(int quantity) => Quantidade += quantity;
-  
-	
+	public void AdicionarProdutos(int quantity)
+	{
+	 Quantidade += quantity;
+	}
+
 	//Remover produtos do estoque
-	public int RemoverProdutos(int quantity) => Quantidade -= quantity;
-   
+	public void RemoverProdutos(int quantity)
+	{
+	 Quantidade -= quantity;
+	}
+
 	// tostring
 	public override string ToString(){
 		return  ("Nome: " + Nome + "  Preço: " + Preco.ToString("F2") + "  Quantidade: " + Quantidade + "  Valor em estoque: "+ ValorTotalEmEstoque().ToString("F2"));
