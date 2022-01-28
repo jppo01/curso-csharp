@@ -2,7 +2,7 @@
 * Exercicio:
 * Fazer um programa para ler os valores da largura e altura de um retângulo. Em
 * seguida, mostrar na tela o valor de sua área, perímetro e diagonal. 
-* OBS: sem tratamento de excessões
+* OBS: sem tratamento de exceções
 */
 using System.Globalization;
 
