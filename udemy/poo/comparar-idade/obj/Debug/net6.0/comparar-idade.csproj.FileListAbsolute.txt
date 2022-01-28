@@ -1,0 +1,15 @@
+C:\Users\engel\Documents\GitHub\estudo-csharp\udemy\poo\comparar-idade\bin\Debug\net6.0\comparar-idade.exe
+C:\Users\engel\Documents\GitHub\estudo-csharp\udemy\poo\comparar-idade\bin\Debug\net6.0\comparar-idade.deps.json
+C:\Users\engel\Documents\GitHub\estudo-csharp\udemy\poo\comparar-idade\bin\Debug\net6.0\comparar-idade.runtimeconfig.json
+C:\Users\engel\Documents\GitHub\estudo-csharp\udemy\poo\comparar-idade\bin\Debug\net6.0\comparar-idade.dll
+C:\Users\engel\Documents\GitHub\estudo-csharp\udemy\poo\comparar-idade\bin\Debug\net6.0\ref\comparar-idade.dll
+C:\Users\engel\Documents\GitHub\estudo-csharp\udemy\poo\comparar-idade\bin\Debug\net6.0\comparar-idade.pdb
+C:\Users\engel\Documents\GitHub\estudo-csharp\udemy\poo\comparar-idade\obj\Debug\net6.0\comparar-idade.csproj.AssemblyReference.cache
+C:\Users\engel\Documents\GitHub\estudo-csharp\udemy\poo\comparar-idade\obj\Debug\net6.0\comparar-idade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\engel\Documents\GitHub\estudo-csharp\udemy\poo\comparar-idade\obj\Debug\net6.0\comparar-idade.AssemblyInfoInputs.cache
+C:\Users\engel\Documents\GitHub\estudo-csharp\udemy\poo\comparar-idade\obj\Debug\net6.0\comparar-idade.AssemblyInfo.cs
+C:\Users\engel\Documents\GitHub\estudo-csharp\udemy\poo\comparar-idade\obj\Debug\net6.0\comparar-idade.csproj.CoreCompileInputs.cache
+C:\Users\engel\Documents\GitHub\estudo-csharp\udemy\poo\comparar-idade\obj\Debug\net6.0\comparar-idade.dll
+C:\Users\engel\Documents\GitHub\estudo-csharp\udemy\poo\comparar-idade\obj\Debug\net6.0\ref\comparar-idade.dll
+C:\Users\engel\Documents\GitHub\estudo-csharp\udemy\poo\comparar-idade\obj\Debug\net6.0\comparar-idade.pdb
+C:\Users\engel\Documents\GitHub\estudo-csharp\udemy\poo\comparar-idade\obj\Debug\net6.0\comparar-idade.genruntimeconfig.cache
