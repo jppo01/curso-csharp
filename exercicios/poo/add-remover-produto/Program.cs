@@ -9,24 +9,27 @@ double preco;
 int quantidade;
 
 Console.WriteLine("Informações do Produto");
-Console.WriteLine("Nome: ");
+Console.Write("Nome: ");
 nome = Console.ReadLine();
 
-Console.WriteLine("Preço: ");
+Console.Write("Preço: ");
 preco = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
 
-Console.WriteLine("Quantidade: ");
+Console.Write("Quantidade: ");
 quantidade = int.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
 
+//criando e estanciando objeto p
 Produto p;
 p = new Produto (nome, preco, quantidade);
-Console.WriteLine("valor atualizado => Nome: {0} Preço: {1} Quantidade: {2} Valor em Estoque: {3}", p.Nome, p.Preco, p.Quantidade, p.ValorTotalEmEstoque());
+
+//printando estado atual
+Console.WriteLine("valor atualizado => " + p);
 
 Console.WriteLine("-----------------------------------------------------------------------");
-Console.WriteLine("Quantidade a ser adicionada:");
+Console.Write("Quantidade a ser adicionada: ");
 p.AdicionarProdutos(int.Parse(Console.ReadLine()));
-Console.WriteLine("valor atualizado => Nome: {0} Preço: {1} Quantidade: {2} Valor em Estoque: {3}", p.Nome, p.Preco, p.Quantidade, p.ValorTotalEmEstoque());
+Console.WriteLine("valor atualizado => " + p);
 Console.WriteLine("-----------------------------------------------------------------------");
-Console.WriteLine("Quantidade a ser removida");
+Console.Write("Quantidade a ser removida: ");
 p.RemoverProdutos(int.Parse(Console.ReadLine()));
-Console.WriteLine("valor atualizado => Nome: {0} Preço: {1} Quantidade: {2} Valor em Estoque: {3}", p.Nome, p.Preco, p.Quantidade, p.ValorTotalEmEstoque());
+Console.WriteLine("valor atualizado => " + p);

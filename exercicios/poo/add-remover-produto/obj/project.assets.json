@@ -8,31 +8,24 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\engel\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "/home/joao/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\engel\\Documents\\GitHub\\estudo-csharp\\udemy\\poo\\add-remover-produto\\add-remover-produto.csproj",
+      "projectUniqueName": "/home/joao/Documents/estudo-csharp/exercicios/poo/add-remover-produto/add-remover-produto.csproj",
       "projectName": "add-remover-produto",
-      "projectPath": "C:\\Users\\engel\\Documents\\GitHub\\estudo-csharp\\udemy\\poo\\add-remover-produto\\add-remover-produto.csproj",
-      "packagesPath": "C:\\Users\\engel\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\engel\\Documents\\GitHub\\estudo-csharp\\udemy\\poo\\add-remover-produto\\obj\\",
+      "projectPath": "/home/joao/Documents/estudo-csharp/exercicios/poo/add-remover-produto/add-remover-produto.csproj",
+      "packagesPath": "/home/joao/.nuget/packages/",
+      "outputPath": "/home/joao/Documents/estudo-csharp/exercicios/poo/add-remover-produto/obj/",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\engel\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/home/joao/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -65,7 +58,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.101/RuntimeIdentifierGraph.json"
       }
     }
   }
