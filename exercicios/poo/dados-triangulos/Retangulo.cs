@@ -1,9 +1,10 @@
 
 public class Retangulo 
 {
-    // Atributos
+    // ======= Atributos =======
     private double Largura;
     private double Altura;
+
 
     // ======== MÉTODOS ========
 
