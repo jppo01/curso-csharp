@@ -4,10 +4,7 @@ public class Aluno
 {
 	//========= ATRIBUTOS =========
 	private string Nome;
-	private double N1, N2, N3, N4;
-
-
-
+	private double N1, N2, N3;
 
 	//========= MÉTODOS ===========
 
@@ -26,10 +23,10 @@ public class Aluno
 		 if (media >= 60)
 		{
 			Console.WriteLine("Nota final: " + media.ToString("F2", CultureInfo.InvariantCulture));
-			Console.WriteLine("APROVADO!");
+			Console.WriteLine("ALUNO APROVADO!");
 		} else {
 			Console.WriteLine("Nota final: " + media.ToString("F2", CultureInfo.InvariantCulture));
-            Console.WriteLine("REPROVADO!");
+            Console.WriteLine("ALUNO REPROVADO!");
             Console.WriteLine("FALTARAM: " + NotaRestante().ToString("F2", CultureInfo.InvariantCulture) + " PONTOS!");
 		}
 	}
