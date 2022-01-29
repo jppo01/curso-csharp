@@ -1,0 +1,15 @@
+C:\Users\engel\Documents\GitHub\estudo-csharp\exercicios-resolvidos\poo\conversor-moeda\bin\Debug\net6.0\conversor-moeda.exe
+C:\Users\engel\Documents\GitHub\estudo-csharp\exercicios-resolvidos\poo\conversor-moeda\bin\Debug\net6.0\conversor-moeda.deps.json
+C:\Users\engel\Documents\GitHub\estudo-csharp\exercicios-resolvidos\poo\conversor-moeda\bin\Debug\net6.0\conversor-moeda.runtimeconfig.json
+C:\Users\engel\Documents\GitHub\estudo-csharp\exercicios-resolvidos\poo\conversor-moeda\bin\Debug\net6.0\conversor-moeda.dll
+C:\Users\engel\Documents\GitHub\estudo-csharp\exercicios-resolvidos\poo\conversor-moeda\bin\Debug\net6.0\ref\conversor-moeda.dll
+C:\Users\engel\Documents\GitHub\estudo-csharp\exercicios-resolvidos\poo\conversor-moeda\bin\Debug\net6.0\conversor-moeda.pdb
+C:\Users\engel\Documents\GitHub\estudo-csharp\exercicios-resolvidos\poo\conversor-moeda\obj\Debug\net6.0\conversor-moeda.csproj.AssemblyReference.cache
+C:\Users\engel\Documents\GitHub\estudo-csharp\exercicios-resolvidos\poo\conversor-moeda\obj\Debug\net6.0\conversor-moeda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\engel\Documents\GitHub\estudo-csharp\exercicios-resolvidos\poo\conversor-moeda\obj\Debug\net6.0\conversor-moeda.AssemblyInfoInputs.cache
+C:\Users\engel\Documents\GitHub\estudo-csharp\exercicios-resolvidos\poo\conversor-moeda\obj\Debug\net6.0\conversor-moeda.AssemblyInfo.cs
+C:\Users\engel\Documents\GitHub\estudo-csharp\exercicios-resolvidos\poo\conversor-moeda\obj\Debug\net6.0\conversor-moeda.csproj.CoreCompileInputs.cache
+C:\Users\engel\Documents\GitHub\estudo-csharp\exercicios-resolvidos\poo\conversor-moeda\obj\Debug\net6.0\conversor-moeda.dll
+C:\Users\engel\Documents\GitHub\estudo-csharp\exercicios-resolvidos\poo\conversor-moeda\obj\Debug\net6.0\ref\conversor-moeda.dll
+C:\Users\engel\Documents\GitHub\estudo-csharp\exercicios-resolvidos\poo\conversor-moeda\obj\Debug\net6.0\conversor-moeda.pdb
+C:\Users\engel\Documents\GitHub\estudo-csharp\exercicios-resolvidos\poo\conversor-moeda\obj\Debug\net6.0\conversor-moeda.genruntimeconfig.cache
