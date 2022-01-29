@@ -1,0 +1,15 @@
+C:\Users\engel\Documents\GitHub\estudo-csharp\exercicios-resolvidos\poo\aprovacao-aluno\bin\Debug\net6.0\aprovacao-aluno.exe
+C:\Users\engel\Documents\GitHub\estudo-csharp\exercicios-resolvidos\poo\aprovacao-aluno\bin\Debug\net6.0\aprovacao-aluno.deps.json
+C:\Users\engel\Documents\GitHub\estudo-csharp\exercicios-resolvidos\poo\aprovacao-aluno\bin\Debug\net6.0\aprovacao-aluno.runtimeconfig.json
+C:\Users\engel\Documents\GitHub\estudo-csharp\exercicios-resolvidos\poo\aprovacao-aluno\bin\Debug\net6.0\aprovacao-aluno.dll
+C:\Users\engel\Documents\GitHub\estudo-csharp\exercicios-resolvidos\poo\aprovacao-aluno\bin\Debug\net6.0\ref\aprovacao-aluno.dll
+C:\Users\engel\Documents\GitHub\estudo-csharp\exercicios-resolvidos\poo\aprovacao-aluno\bin\Debug\net6.0\aprovacao-aluno.pdb
+C:\Users\engel\Documents\GitHub\estudo-csharp\exercicios-resolvidos\poo\aprovacao-aluno\obj\Debug\net6.0\aprovacao-aluno.csproj.AssemblyReference.cache
+C:\Users\engel\Documents\GitHub\estudo-csharp\exercicios-resolvidos\poo\aprovacao-aluno\obj\Debug\net6.0\aprovacao-aluno.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\engel\Documents\GitHub\estudo-csharp\exercicios-resolvidos\poo\aprovacao-aluno\obj\Debug\net6.0\aprovacao-aluno.AssemblyInfoInputs.cache
+C:\Users\engel\Documents\GitHub\estudo-csharp\exercicios-resolvidos\poo\aprovacao-aluno\obj\Debug\net6.0\aprovacao-aluno.AssemblyInfo.cs
+C:\Users\engel\Documents\GitHub\estudo-csharp\exercicios-resolvidos\poo\aprovacao-aluno\obj\Debug\net6.0\aprovacao-aluno.csproj.CoreCompileInputs.cache
+C:\Users\engel\Documents\GitHub\estudo-csharp\exercicios-resolvidos\poo\aprovacao-aluno\obj\Debug\net6.0\aprovacao-aluno.dll
+C:\Users\engel\Documents\GitHub\estudo-csharp\exercicios-resolvidos\poo\aprovacao-aluno\obj\Debug\net6.0\ref\aprovacao-aluno.dll
+C:\Users\engel\Documents\GitHub\estudo-csharp\exercicios-resolvidos\poo\aprovacao-aluno\obj\Debug\net6.0\aprovacao-aluno.pdb
+C:\Users\engel\Documents\GitHub\estudo-csharp\exercicios-resolvidos\poo\aprovacao-aluno\obj\Debug\net6.0\aprovacao-aluno.genruntimeconfig.cache
