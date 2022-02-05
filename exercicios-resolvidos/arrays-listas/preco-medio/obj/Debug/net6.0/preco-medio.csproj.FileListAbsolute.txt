@@ -1,0 +1,15 @@
+C:\Users\engel\Documents\GitHub\estudo-csharp\exercicios-resolvidos\arrays-listas\preco-medio\obj\Debug\net6.0\preco-medio.csproj.AssemblyReference.cache
+C:\Users\engel\Documents\GitHub\estudo-csharp\exercicios-resolvidos\arrays-listas\preco-medio\obj\Debug\net6.0\preco-medio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\engel\Documents\GitHub\estudo-csharp\exercicios-resolvidos\arrays-listas\preco-medio\obj\Debug\net6.0\preco-medio.AssemblyInfoInputs.cache
+C:\Users\engel\Documents\GitHub\estudo-csharp\exercicios-resolvidos\arrays-listas\preco-medio\obj\Debug\net6.0\preco-medio.AssemblyInfo.cs
+C:\Users\engel\Documents\GitHub\estudo-csharp\exercicios-resolvidos\arrays-listas\preco-medio\obj\Debug\net6.0\preco-medio.csproj.CoreCompileInputs.cache
+C:\Users\engel\Documents\GitHub\estudo-csharp\exercicios-resolvidos\arrays-listas\preco-medio\bin\Debug\net6.0\preco-medio.exe
+C:\Users\engel\Documents\GitHub\estudo-csharp\exercicios-resolvidos\arrays-listas\preco-medio\bin\Debug\net6.0\preco-medio.deps.json
+C:\Users\engel\Documents\GitHub\estudo-csharp\exercicios-resolvidos\arrays-listas\preco-medio\bin\Debug\net6.0\preco-medio.runtimeconfig.json
+C:\Users\engel\Documents\GitHub\estudo-csharp\exercicios-resolvidos\arrays-listas\preco-medio\bin\Debug\net6.0\preco-medio.dll
+C:\Users\engel\Documents\GitHub\estudo-csharp\exercicios-resolvidos\arrays-listas\preco-medio\bin\Debug\net6.0\ref\preco-medio.dll
+C:\Users\engel\Documents\GitHub\estudo-csharp\exercicios-resolvidos\arrays-listas\preco-medio\bin\Debug\net6.0\preco-medio.pdb
+C:\Users\engel\Documents\GitHub\estudo-csharp\exercicios-resolvidos\arrays-listas\preco-medio\obj\Debug\net6.0\preco-medio.dll
+C:\Users\engel\Documents\GitHub\estudo-csharp\exercicios-resolvidos\arrays-listas\preco-medio\obj\Debug\net6.0\ref\preco-medio.dll
+C:\Users\engel\Documents\GitHub\estudo-csharp\exercicios-resolvidos\arrays-listas\preco-medio\obj\Debug\net6.0\preco-medio.pdb
+C:\Users\engel\Documents\GitHub\estudo-csharp\exercicios-resolvidos\arrays-listas\preco-medio\obj\Debug\net6.0\preco-medio.genruntimeconfig.cache
