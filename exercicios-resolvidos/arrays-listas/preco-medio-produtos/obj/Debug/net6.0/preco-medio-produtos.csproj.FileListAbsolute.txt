@@ -1,0 +1,15 @@
+/home/joao/Documents/estudo-csharp/exercicios-resolvidos/arrays-listas/preco-medio-produtos/obj/Debug/net6.0/preco-medio-produtos.csproj.AssemblyReference.cache
+/home/joao/Documents/estudo-csharp/exercicios-resolvidos/arrays-listas/preco-medio-produtos/obj/Debug/net6.0/preco-medio-produtos.GeneratedMSBuildEditorConfig.editorconfig
+/home/joao/Documents/estudo-csharp/exercicios-resolvidos/arrays-listas/preco-medio-produtos/obj/Debug/net6.0/preco-medio-produtos.AssemblyInfoInputs.cache
+/home/joao/Documents/estudo-csharp/exercicios-resolvidos/arrays-listas/preco-medio-produtos/obj/Debug/net6.0/preco-medio-produtos.AssemblyInfo.cs
+/home/joao/Documents/estudo-csharp/exercicios-resolvidos/arrays-listas/preco-medio-produtos/obj/Debug/net6.0/preco-medio-produtos.csproj.CoreCompileInputs.cache
+/home/joao/Documents/estudo-csharp/exercicios-resolvidos/arrays-listas/preco-medio-produtos/bin/Debug/net6.0/preco-medio-produtos
+/home/joao/Documents/estudo-csharp/exercicios-resolvidos/arrays-listas/preco-medio-produtos/bin/Debug/net6.0/preco-medio-produtos.deps.json
+/home/joao/Documents/estudo-csharp/exercicios-resolvidos/arrays-listas/preco-medio-produtos/bin/Debug/net6.0/preco-medio-produtos.runtimeconfig.json
+/home/joao/Documents/estudo-csharp/exercicios-resolvidos/arrays-listas/preco-medio-produtos/bin/Debug/net6.0/preco-medio-produtos.dll
+/home/joao/Documents/estudo-csharp/exercicios-resolvidos/arrays-listas/preco-medio-produtos/bin/Debug/net6.0/ref/preco-medio-produtos.dll
+/home/joao/Documents/estudo-csharp/exercicios-resolvidos/arrays-listas/preco-medio-produtos/bin/Debug/net6.0/preco-medio-produtos.pdb
+/home/joao/Documents/estudo-csharp/exercicios-resolvidos/arrays-listas/preco-medio-produtos/obj/Debug/net6.0/preco-medio-produtos.dll
+/home/joao/Documents/estudo-csharp/exercicios-resolvidos/arrays-listas/preco-medio-produtos/obj/Debug/net6.0/ref/preco-medio-produtos.dll
+/home/joao/Documents/estudo-csharp/exercicios-resolvidos/arrays-listas/preco-medio-produtos/obj/Debug/net6.0/preco-medio-produtos.pdb
+/home/joao/Documents/estudo-csharp/exercicios-resolvidos/arrays-listas/preco-medio-produtos/obj/Debug/net6.0/preco-medio-produtos.genruntimeconfig.cache
