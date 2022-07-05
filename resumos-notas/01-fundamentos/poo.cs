@@ -18,8 +18,16 @@
     Usar o ToString em uma classe é necessário lançar mão de sobreposição, para isso usamos o override.
     Ex:
         public override string ToString(){
-            return "retorno da classe aqui";
+            return "retorno da classe aqui"; 
         }
 
 
 */
+
+//=============== Membros Estáticos  ===============\\
+/* 
+
+    static permite chamar um metodo de uma classe sem instanciar um objeto pertencente a aquela classe. 
+
+*/
+
