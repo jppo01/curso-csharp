@@ -9,7 +9,8 @@ namespace exercicio_02
     public class Data
     {
         private DateTime _data { get; set; }
-
+    
+    
 
         public Data(DateTime data)
         {
